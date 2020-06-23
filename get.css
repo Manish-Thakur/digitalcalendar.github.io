@@ -4,7 +4,7 @@
 	color:#444;
 	background-color:#98c2c2;
 	font:300 18px/18px;
-     font-family: 'Roboto Condensed', sans-serif;
+     	font-family: 'Roboto Condensed', sans-serif;
 	transition:background .4s ease-in-out 0s;
 }
 *,:after,:before{box-sizing:border-box}
@@ -103,4 +103,9 @@
 [data-theme="dec"] .row.head{color:#546E7A}
 [data-theme="dec"] .header .text,
 [data-theme="dec"] .table .row .cell.active span{background-color:#546E7A}
-    
+
+@media(max-width:800px){  
+	
+	.calendar{padding-top:50px;}
+	
+}
