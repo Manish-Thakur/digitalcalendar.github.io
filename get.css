@@ -104,8 +104,8 @@
 [data-theme="dec"] .header .text,
 [data-theme="dec"] .table .row .cell.active span{background-color:#546E7A}
 
-@media(max-width:800px){  
+/* @media(max-width:800px){  
 	
 	.calendar{padding-top:150px;}
 	
-}
+} */
